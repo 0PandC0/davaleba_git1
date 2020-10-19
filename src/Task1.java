@@ -6,6 +6,7 @@ public class Task1 {
         Circle c=new Circle(5);
         System.out.println("წრის ფართობია "+c.area());
         System.out.println("წრეწირის სიგრძეა"+ c.length());
+        System.out.println("end of story");
 
     }
 }
